@@ -1,5 +1,6 @@
 .env
 secrets.conf
+mooncord.cfg
 *.swp
 *.tmp
 printer-[0-9]*_[0-9]*.cfg
